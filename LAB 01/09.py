@@ -1,0 +1,5 @@
+a=int(input())
+H=int((a/3600))
+M=int((a/60)%60)
+s=int(a%60)
+print(H,":",M,":",s)

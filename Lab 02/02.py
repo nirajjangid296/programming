@@ -1,0 +1,5 @@
+x=int(input())
+y=int(input())
+h=int(input())
+area=(h/2)(x+y)
+print(area,"m^2")
